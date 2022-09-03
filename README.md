@@ -1,14 +1,7 @@
-<p align="center">
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/logo.png" width="500" height="200"  ><img src="https://github.com/hansol787897465121/Sesac/blob/main/image/expert-qr.png" width="150" height="200" align="right">  
-</p>
-<br/>
+## Web renewal project 
 
-## 프로젝트 소개
-> 엑스퍼트 아카데미 홈페이지 리뉴얼 프로젝트
-```
-기존 홈페이지의 디자인 & 메뉴 개선, 반응협 웹 구축 등 사용자의 편의성 제공을 위한 리뉴얼 프로젝트
-```
-
+- 리뉴얼 대상: [엑스퍼트 아카데미](http://www.excacademy.co.kr/)
+- 리뉴얼 페이지: [Click](http://expert002.cafe24.com/)
 <br>
 
 ## 📌 프로젝트 기능
@@ -20,8 +13,7 @@
 
 #### ➡️  InterAction디자인
 웹사이트 이용자와의 상호작용을 이끌어 내는 것에 중점을 두고 작업
-<br/>
-<br/>
+
 
 ## 📘Contents
 
@@ -39,7 +31,10 @@
 
 <br>
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/99793031/165108703-2e4a9215-6967-4487-a04d-5e537d2a3060.png" width="500" height="200"  ><img src="https://user-images.githubusercontent.com/86069422/160289118-1d22d280-9e8c-4abd-bcce-61477758457a.png" width="150" height="200" align="right">  
+</p>
+<br/>
 
 
 
@@ -47,7 +42,7 @@
 
 ## 메뉴 구조도
 <p align="center">
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/menu1.png" width="800" height="400"  >
+<img src="https://user-images.githubusercontent.com/86069422/160288239-68dedfbc-0881-42a2-8e3f-c06536b316bd.png" width="800" height="400"  >
 </p>
 <br/>
 
@@ -58,7 +53,7 @@
 <br/>
 
 
-## 🌈 새싹디벨로퍼 팀원
+## 🌈 새싹디벨로퍼
 [Notion](https://www.notion.so/Sesac-1c656fd978fd4196b04fb7728cb26293)
 [미연](https://github.com/kalmtalyst) 
 [세영](https://github.com/julie-kim-dev) 
@@ -70,9 +65,10 @@
 <br>
 
 ## 🔗 Link
-[엑스퍼트아카데미](http://expert002.cafe24.com)
+[Click!](http://expert002.cafe24.com)
 <br>
-[새싹디벨로퍼 Git](https://github.com/Sesac20222202/Sesac)
+### Github Repositories
+[Click!!](https://github.com/Sesac20222202/Sesac)
 
 <br>
 
@@ -95,6 +91,8 @@
 
 ## ⚙️ Installation
 
+<br>
+
 #### Setup
 
 `git clone https://github.com/Sesac22022202/Sesac`
@@ -114,7 +112,7 @@
 <summary>메인 화면</summary>
 <div markdown="1">
 <p>
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/main.png">
+<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/main.png" >
 </p>
  <div>
 <p>:one: 메인 공지팝업</p>
@@ -162,7 +160,7 @@ swiper 라이브러리를 사용하여 2초마다 배너가 슬라이딩 & 배�
 <summary>회원가입 화면</summary>
 <div markdown="1">
 <p>
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/join2.png" >
+<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/join2.png">
 </p>
 <div>
 <p>:one: 아이디/비밀번호 유효성 검사</p>
